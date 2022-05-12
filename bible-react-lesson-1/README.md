@@ -1,4 +1,4 @@
-### React JS - Lesson 1
+# React JS - Lesson 1
 In this project I learned how to use React to create a simple web application.
 
 ### What is React?

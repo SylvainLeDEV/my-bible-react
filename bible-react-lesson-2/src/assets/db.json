@@ -1,0 +1,33 @@
+{
+  "articles": [
+    {
+      "firstName": "Mark",
+      "lastName": "Zuckerberg",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit.",
+      "date": 1621536056135,
+      "updatedDate": 1652367255765,
+      "id": 3
+    },
+    {
+      "firstName": "Lartiste",
+      "lastName": "Sylvain",
+      "content": "Bonjour Bonjour Bonjour Bonjour Bonjour Bonjour Bonjour Bonjour Bonjour Bonjour Bonjour Bonjour Bonjour Bonjour Bonjour Bonjour Bonjour Bonjour Bonjour ",
+      "date": 1652367677872,
+      "id": 6
+    },
+    {
+      "firstName": "Jeff",
+      "lastName": "Bezos ",
+      "content": "Bon jour je suis riche Bon jour je suis richeBon jour je suis richeBon jour je suis richeBon jour je suis richeBon jour je suis richeBon jour je suis richeBon jour je suis riche",
+      "date": 1652367705389,
+      "id": 7
+    },
+    {
+      "firstName": "Zuckerberg",
+      "lastName": "Mark",
+      "content": "Je suis plus riche que toi ! Je suis plus riche que toi !Je suis plus riche que toi !Je suis plus riche que toi !Je suis plus riche que toi !Je suis plus riche que toi !Je suis plus riche que toi !",
+      "date": 1652367731085,
+      "id": 8
+    }
+  ]
+}
