@@ -1,10 +1,9 @@
-# Lesson 2 reactJS
+# Lesson 2 reactJS Add a blog
 In first time : 
 - Regain project : `npm i`
  
 - Install JSON-SERVER : `npm i -g json-server`
 - Make working server : `json-server --w src/assets/db.json --port 3004`
-
 
 
 ### Put Online website

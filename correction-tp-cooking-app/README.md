@@ -49,3 +49,12 @@ const [mealsData, setMealsData] = useState([]);
   }, [inputSearch]);
 ```
 
+And if I wish to avoid all problem with map = null and undefined, I can use a condition.
+```
+const [mealsData, setMealsData] = useState([]);
+{mealsData &&
+          mealsData
+            .slice(0, 24)
+            .map((meal) => <Card key={meal.idMeal} meal={meal} />)}
+```
+

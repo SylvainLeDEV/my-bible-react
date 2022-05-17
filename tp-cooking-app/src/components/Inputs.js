@@ -13,7 +13,8 @@ const Inputs = () => {
         getNewCook(e.target.value);
     };
     const getNewCook = (valueInput) => {
-        if (valueInput) {
+        console.log(valueInput);
+        if (valueInput || valueInput === "") {
             axios.get("https://www.themealdb.com/api/json/v1/1/search.php?s=" + valueInput)
                 .then(res => {
                     if (res.data.meals.length > 0) {
